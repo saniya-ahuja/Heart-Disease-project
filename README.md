@@ -17,21 +17,19 @@ Use machine learning to classify patients as **heart-disease positive or negativ
 
 ---
 
-## 🧠 Project Overview
+## 🧠 Machine Learning Workflow
 
-The notebook follows a systematic ML pipeline:
-
-📥 Raw Medical Data
-          ↓
-🧹 Data Cleaning & Preprocessing
-          ↓
-📊 Exploratory Data Analysis (EDA)
-          ↓
-🧠 Feature Selection
-          ↓
-🤖 Classification Models
-          ↓
-📈 Model Evaluation
+📥 **Raw Medical Data**  
+&nbsp;&nbsp;&nbsp;&nbsp;⬇️  
+🧹 **Data Cleaning & Preprocessing**  
+&nbsp;&nbsp;&nbsp;&nbsp;⬇️  
+📊 **Exploratory Data Analysis (EDA)**  
+&nbsp;&nbsp;&nbsp;&nbsp;⬇️  
+🧠 **Feature Selection**  
+&nbsp;&nbsp;&nbsp;&nbsp;⬇️  
+🤖 **Classification Models**  
+&nbsp;&nbsp;&nbsp;&nbsp;⬇️  
+📈 **Model Evaluation**
 
 
 Each step is implemented with clarity and reasoning, focusing on **interpretability and correctness**, not just accuracy.
